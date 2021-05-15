@@ -1,0 +1,6 @@
+node_modules
+.next
+package-lock.json
+.serverless
+.serverless_nextjs
+lib/pages.json

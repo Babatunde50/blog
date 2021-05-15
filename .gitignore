@@ -1,0 +1,11 @@
+.DS_Store
+node_modules
+*.log
+*.zip
+.env
+.next
+.env.build
+.serverless
+.serverless_nextjs
+cypress/videos
+cypress/screenshots
